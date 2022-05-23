@@ -1,0 +1,11 @@
+ {
+ "user": [
+	{
+        "id": 1,
+        "name": "Tiger Nixon1",
+        "phone_no": 320800,
+        "email": "test1@gmail.com",
+        "dob": "28/05/1955"
+    }
+    	]
+}
